@@ -1,0 +1,12 @@
+{
+  "project": [
+    {
+      "image": "todo-crud.png",
+      "githubLink": "https://github.dev/Zakiah07/todo-crud",
+      "webLink": "https://todo-crud-z.netlify.app/",
+      "statement1": "First version: A basic Create, Read, Update and Delete (CRUD)",
+      "statement2": "functionality Todo List in which i utilized React, JavaScript and",
+      "statement3": "other libraries called React Icons and React Hot Toast."
+    }
+  ]
+}
