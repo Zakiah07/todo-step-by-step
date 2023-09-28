@@ -3,6 +3,7 @@ import { MdOpenInNew } from "react-icons/md";
 import { SiGithub } from "react-icons/si";
 
 function App() {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [projects, setProjects] = useState([
     {
       image: "todo-crud.png",
